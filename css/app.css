@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://i.imgur.com/RlFHr8D.gif");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.main {
+  width:50%;
+  margin: 100px auto;
+  padding: 10px;
+}
